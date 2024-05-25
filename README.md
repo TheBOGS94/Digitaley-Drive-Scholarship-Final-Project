@@ -15,6 +15,9 @@
 
 This project contains Employee Engagement Survey responses that Pierce County, Washington conducted. The dataset comprises of replies from 14,725 government workers and focuses on survey agreement and disagreement, departmental or role-specific trends, and suggestions to raise employee happiness.
 
+![Capstone 1 Dashboard](https://github.com/TheBOGS94/Digitaley-Drive-Scholarship-Final-Project/assets/169677400/9e33caff-0522-4fb9-b27b-707e04d80e13)
+
+
 ### Data Query
 -*Survey Question*: The survey's query.
 - *Agree*: Number of respondents in agreement.
